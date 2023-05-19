@@ -27,15 +27,23 @@
 - CSS Framework: You are required to use any CSS framework of your choice.
 - Proper Usage of React Hooks: Ensure good and correct usage of all relevant React hooks.
 - Function-Based Components: All components must be implemented using function-based components and not class-based components.
+- Website Hosting: Host the website anywhere, such as Vercel or Netlify.
 
 ## Bonus Points:
-- Next.js: Implementing Next.js in your solution will earn you bonus points.
-- Tailwind CSS: Utilizing Tailwind CSS in your solution will earn you bonus points.
-- Responsive Design: Making the website responsive across different devices and screen sizes will earn you bonus points.
+- Next.js: Implementing Next.js in your solution.
+- Tailwind CSS: Utilizing Tailwind CSS in your solution.
+- Responsive Design: Making the website responsive across different devices and screen sizes.
 - State Management: Efficiently manage state using any library of your choice (e.g., Redux, MobX).
-- Website Hosting: Host the website anywhere, such as Vercel or Netlify, for bonus points.
 
 ## Additional Points:
 Feel free to incorporate any additional features or techniques that you think will enhance your solution and showcase your skills effectively.
 
 Best of luck with your Frontend Developer intern test! If you have any further questions, please don't hesitate to ask. If there are any changes to the test, we will update this document. So, please check back regularly.
+
+## Resources:
+
+- [React.js](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
