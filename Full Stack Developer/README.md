@@ -4,12 +4,12 @@
 
 ## Test Duration:
 - The test will be conducted for a total of 12 hours.
-- It will take place on Thursday, May 25th, 2023, from 9:00 am to 9:00 pm IST (Indian Standard Time).
+- It will take place on **Thursday, May 25th, 2023, from 9:00 am to 9:00 pm IST (Indian Standard Time)**.
 
 ## Test Requirements:
 - You are free to use any libraries and modules that you find suitable for the task.
 - The final code must be uploaded to your personal GitHub repository.
-- The GitHub repository must be set as private until the deadline. Once the deadline has passed, you must make it public.
+- **The GitHub repository must be set as private until the deadline. Once the deadline has passed, you must make it public.**
 - You must strictly adhere to the guidelines and detailed instructions provided in the instructions file.
 - Your repository's README.md file should include instructions to run the development server locally, along with well-written documentation.
 
@@ -20,7 +20,7 @@
 ## Important Notes:
 - The exact functionality specifications for the web application will be provided to you at 9:00 am on May 25th, 2023.
 - Emphasis will be placed on the functionality of the web application, and not the design.
-- Any commits made after the deadline will result in immediate disqualification.
+- **Any commits made after the deadline will result in immediate disqualification.**
 
 ## Minimum Requirements:
 - Frontend: The frontend must be built using React.js, utilizing function-based components (class-based components are not allowed).
@@ -29,13 +29,15 @@
 - Database: You must use either MongoDB or PostgreSQL for data storage.
 
 ## Bonus Points:
-- Next.js: Implementing Next.js in your solution will earn you bonus points.
+- Next.js: Implementing Next.js in your solution.
 - Authentication: Implementing any form of authentication (e.g., JWT, OAuth, etc.).
 - Dockerization: Dockerize your application.
 - Deployment: Deploy the web application to a hosting platform of your choice.
 
-## Additional Points:
-While the design of the website is not emphasized as much as functionality and working, feel free to incorporate any additional features or techniques that you think will enhance your solution and showcase your skills effectively.
+## Additional Information:
+- While the design of the website is not emphasized as much as functionality and working, feel free to incorporate any additional features or techniques that you think will enhance your solution and showcase your skills effectively.
+- Feel free to utilize resources such as ChatGPT, GitHub Copilot, online courses, documentation, and other reference materials to assist you in solving the problem statements.
+- However, please note that while using online resources is encouraged, directly copying code from others, including your friends, is considered unethical and not allowed.
 
 Best of luck with your Full Stack Developer intern test! If you have any further questions, please don't hesitate to ask. If there are any changes to the test, we will update this document. So, please check back regularly.
 
@@ -48,3 +50,4 @@ Best of luck with your Full Stack Developer intern test! If you have any further
 - [Docker](https://www.docker.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+- [Railway](https://railway.app/)
