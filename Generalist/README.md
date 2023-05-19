@@ -1,6 +1,6 @@
 # Generalist Role Test Guidelines and Format
 
-## **Subnission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
+## **Submission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
 
 ## Thank you for your interest in the Generalist role. To assess your skills and suitability for the position, we have prepared a test that will allow you to showcase your problem-solving abilities and presentation skills within a designated time frame. Please carefully review the following guidelines and instructions:
 

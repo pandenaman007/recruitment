@@ -1,6 +1,6 @@
 # Full Stack Developer Intern Test Guidelines and Format
 
-## **Subnission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
+## **Submission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
 
 ## Thank you for your interest in the Full Stack Developer intern position. To assess your skills and suitability for the role, we have prepared a coding test that will allow you to showcase your abilities within a designated time frame. Please carefully review the following guidelines and instructions:
 
