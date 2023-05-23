@@ -12,7 +12,7 @@
 - You are free to use any libraries and modules that you find suitable for the task.
 - The final code must be uploaded to your personal GitHub repository.
 - **The GitHub repository must be set as private until the deadline. Once the deadline has passed, you must make it public.**
-- You must strictly adhere to the guidelines and detailed instructions provided in the instructions file.
+- You must strictly adhere to the guidelines and detailed instructions provided in the [instructions](https://github.com/Consuma/recruitment/blob/main/Full%20Stack%20Developer/INSTRUCTIONS.md) file.
 - Your repository's README.md file should include instructions to run the development server locally, along with well-written documentation.
 
 ## Submission Process:

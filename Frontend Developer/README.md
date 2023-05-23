@@ -13,7 +13,7 @@
 - You must upload the final code to your personal GitHub repository.
 - **The GitHub repository must be set as private until the deadline. Once the deadline has passed, you must make it public.**
 - A Figma link containing the design for the website will be provided to you.
-- You must strictly adhere to the guidelines and detailed instructions provided in the instructions file.
+- You must strictly adhere to the guidelines and detailed instructions provided in the [instructions](https://github.com/Consuma/recruitment/blob/main/Frontend%20Developer/INSTRUCTIONS.md) file.
 - Your repository's README.md file should include instructions to run the development server locally, along with well-written documentation.
 
 ## Submission Process:

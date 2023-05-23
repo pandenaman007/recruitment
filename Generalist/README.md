@@ -13,6 +13,7 @@
 - Based on the scenario, you should come up with three different solutions to address the problem statements provided.
 - Prepare a slide deck containing no more than six slides to present your solutions effectively.
 - Additionally, create a one-minute video explaining your solutions in a concise and clear manner.
+- Additional details and instructions will be provided in the [instructions](https://github.com/Consuma/recruitment/blob/main/Generalist/INSTRUCTIONS.md) file.
 
 ## Submission Process:
 - The submission process will be through a Typeform.
