@@ -1,6 +1,6 @@
 # Generalist Role Test Guidelines and Format
 
-## **Submission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
+## **Submission Link:** [https://forms.gle/Q3bkeDwiWFxXDka16](https://forms.gle/Q3bkeDwiWFxXDka16)
 
 ## Thank you for your interest in the Generalist role. To assess your skills and suitability for the position, we have prepared a test that will allow you to showcase your problem-solving abilities and presentation skills within a designated time frame. Please carefully review the following guidelines and instructions:
 
@@ -9,15 +9,15 @@
 - It will take place on **Thursday, May 25th, 2023, from 9:00 am to 9:00 pm IST (Indian Standard Time).**
 
 ## Test Requirements:
-- A hypothetical scenario and circumstance will be provided to you at 9:00 am on May 25th, 2023.
+- A hypothetical scenario and circumstance will be provided to you.
 - Based on the scenario, you should come up with three different solutions to address the problem statements provided.
 - Prepare a slide deck containing no more than six slides to present your solutions effectively.
 - Additionally, create a one-minute video explaining your solutions in a concise and clear manner.
 - Additional details and instructions will be provided in the [instructions](https://github.com/Consuma/recruitment/blob/main/Generalist/INSTRUCTIONS.md) file.
 
 ## Submission Process:
-- The submission process will be through a Typeform.
-- The Typeform will ask for the links to your slide deck presentation and the video explaining your solutions, along with any other necessary information.
+- The submission process will be through a Google Form.
+- The Google Form will ask for the links to your slide deck presentation and the video explaining your solutions, along with any other necessary information.
 
 ## Important Notes:
 - It is crucial to address the problem statements provided and offer three distinct solutions.

@@ -1,6 +1,6 @@
 # Frontend Developer Intern Test Guidelines and Format
 
-## **Submission Link:** Will be provided on May 25th, 2023 at 9:00 am IST
+## **Submission Link:** [https://forms.gle/8FCSkXWWSm8ENRZz7](https://forms.gle/8FCSkXWWSm8ENRZz7)
 
 ## Thank you for your interest in the Frontend Developer intern position. To assess your skills and suitability for the role, we have prepared a coding test that will allow you to showcase your abilities within a designated time frame. Please carefully review the following guidelines and instructions:
 
@@ -17,8 +17,8 @@
 - Your repository's README.md file should include instructions to run the development server locally, along with well-written documentation.
 
 ## Submission Process:
-- The submission process will be through a Typeform, which will close at the designated deadline.
-- The Typeform will ask for the GitHub repository link, along with other necessary information.
+- The submission process will be through a Google Form, which will close at the designated deadline.
+- The Google Form will ask for the GitHub repository link, along with other necessary information.
 
 ## Important Notes:
 - The exact design and functionality specifications for the website will be provided to you at 9:00 am on May 25th, 2023.
